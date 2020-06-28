@@ -487,6 +487,7 @@ ol {
 	top: 8px;
 	border-radius: 20px;
 	background: #ffbc00;
+	z-index:-1;
 }
 
 .resume-item .resume-year h2 {
